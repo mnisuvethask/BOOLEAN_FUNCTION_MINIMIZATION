@@ -1,5 +1,5 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
-NAME: J.Harshini REGISTER NO: 212225040120
+NAME: SUVETHA K M S REGISTER NO: 212225230278
 
 **AIM:**
 To implement the given logic function verify its operation in Quartus using Verilog programming.
